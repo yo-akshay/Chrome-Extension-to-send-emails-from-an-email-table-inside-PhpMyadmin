@@ -22,6 +22,6 @@ https://drive.google.com/open?id=0B7ygUjKuJqdOalN1NTA5UTBVY3c
 
 Screenshots
 
-![Alt text](/Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/screenshot1.png?raw=true "Screenshot1")
+![alt tag](https://github.com/yo-akshay/Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/blob/master/screenshot1.png)
 
-![Alt text](/Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/screenshot2.png?raw=true "Screenshot2")
+![alt tag](https://github.com/yo-akshay/Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/blob/master/screenshot2.png)
