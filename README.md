@@ -22,6 +22,6 @@ https://drive.google.com/open?id=0B7ygUjKuJqdOalN1NTA5UTBVY3c
 
 Screenshots
 
-![Alt text](/relative/path/to/screenshot1.jpg?raw=true "Screenshot1")
+![Alt text](Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/screenshot1.png?raw=true "Screenshot1")
 
-![Alt text](/relative/path/to/screenshot2.jpg?raw=true "Screenshot2")
+![Alt text](Chrome-Extension-to-send-emails-from-an-email-table-inside-PhpMyadmin/screenshot2.png?raw=true "Screenshot2")
